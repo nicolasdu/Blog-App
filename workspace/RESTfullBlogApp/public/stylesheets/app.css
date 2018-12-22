@@ -11,3 +11,6 @@ i.icon{
 #bt1{
     margin-top:2%;
 }
+#text{
+    white-space: pre-wrap;
+}
